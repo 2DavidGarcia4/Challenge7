@@ -273,6 +273,7 @@ body{
       background-image: url("./images/bg-mobile.png");
       background-attachment: fixed;
       background-position: center center;
+      background-size: cover;
    }
 
    .container{
