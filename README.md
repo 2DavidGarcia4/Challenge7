@@ -1,1 +1,1 @@
-[📄 Web page](https://2davidgarcia4.github.io/challenge7/)
+[📄 Web page](https://2davidgarcia4.github.io/Challenge7/)
